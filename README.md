@@ -1,41 +1,36 @@
 <h1 align="center">Hi 👋, I'm Vansh Ahuja</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Competitive Programmer</h3>
-
-
+<h3 align="center">Ex-SWE Intern @ Google | Full-Stack Developer | Competitive Programmer</h3>
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 B.Tech CSE @ GGSIPU (2023–2027) — GPA: **9.76**
-- 📍 6th Semester | CSE – B Branch  
-- 💻 Exploring scalable backend systems & modern web technologies  
-- ⚡ Strong interest in performance optimization & system-level thinking  
-- 🧠 Competitive programming enthusiast  
+- 💼 **Ex-SWE Intern @ Google** (Summer 2026) — Built scalable client libraries & API integration architectures.
+- 🎓 **B.Tech CSE @ GGSIPU** (2023–2027) — GPA: **9.74** | 6th Semester
+- 💻 Passionate about building distributed backend systems, local-first architectures, and scalable REST APIs.
+- 🐍 Actively leveraging **Python**, **Node.js**, and **Next.js** to build full-stack applications.
+- 🧠 Competitive programming enthusiast & problem solver.
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 👨‍💻 Languages  
-`C++` `Python` `Java` `JavaScript` `TypeScript` `HTML` `CSS`
+`Python` `C++` `JavaScript` `TypeScript` `Java` `Go` `SQL` `HTML/CSS`
 
 ### ⚙️ Frameworks & Libraries  
-`React.js` `Next.js` `Node.js` `Express.js` `Socket.io` `Tailwind CSS` `EJS`
+`Next.js` `React.js` `Node.js` `Express.js` `Prisma ORM` `Socket.io` `WebRTC` `Tailwind CSS`
 
-### 🗄 Databases & Tools  
-`MongoDB` `MySQL` `PostgreSQL` `Git` `AWS` `Postman`
-
-### 🧩 Core Concepts  
-`OOP` `DBMS` `Operating Systems` `Computer Networks`
+### 🗄 Databases, Cloud & Tools  
+`PostgreSQL` `MongoDB` `Redis` `Google Cloud (GCP)` `AWS` `Docker` `Git`
 
 ---
 
-## 🏆 Competitive Programming  
+## 📊 Competitive Programming  
 
-- ⭐ **LeetCode:** 1700+ Rating | 600+ Problems | Knight  
-- 🔥 **CodeChef:** 3★ (1600+)  
-- 💪 **Codeforces:** 1200+   
+- ⭐ **LeetCode:** Knight (1950+ Rating) | Top 3% | 600+ Problems Solved  
+- 🔥 **Codeforces:** Pupil (1250+ Rating)  
+- 💪 **CodeChef:** 3★ (1600+ Rating)   
 
 ---
 
@@ -55,12 +50,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </p>
-
-<p align="center">
-  ⚡ “Consistency beats intensity.”  
-</p>
-
